@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v22\shared\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1827612e5e8b60c933f9056ad7b08ee0f762eda7">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v22\wear\build\intermediates\pre-dexed\debug\classes_12c4cca7371df55209152b058a1c81eac1291a78.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\shared\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1827612e5e8b60c933f9056ad7b08ee0f762eda7">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\4\classes_a3f9602e0821a32d625207eaac60932be95c839a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v22\mobile\libs\opencsv-3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2858373af0681aafd3d79fdd533cc9127959c9ea">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v22\mobile\build\intermediates\transforms\dex\debug\folders\1000\2\opencsv-3.3_43ad69ea24902b3eae692bafd6b0ebbefb21242c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\wear\libs\opencsv-3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2858373af0681aafd3d79fdd533cc9127959c9ea">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\wear\build\intermediates\pre-dexed\debug\opencsv-3.3_0a3be1f6bae4025279fbf08748c4b38cd96ece5b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v22\shared\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1827612e5e8b60c933f9056ad7b08ee0f762eda7">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v22\mobile\build\intermediates\transforms\dex\debug\folders\1000\4\classes_12c4cca7371df55209152b058a1c81eac1291a78\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\shared\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1827612e5e8b60c933f9056ad7b08ee0f762eda7">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\wear\build\intermediates\pre-dexed\debug\classes_a3f9602e0821a32d625207eaac60932be95c839a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\libs\opencsv-3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2858373af0681aafd3d79fdd533cc9127959c9ea">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v23\mobile\build\intermediates\transforms\dex\debug\folders\1000\2\opencsv-3.3_e79c0aefff9bda088a7ef859a2c4d36cac4bfe3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v22\wear\libs\opencsv-3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2858373af0681aafd3d79fdd533cc9127959c9ea">
+        <dex dex="C:\Users\Andinazn\Dropbox\AndroidStudio\punjaab-v22\wear\build\intermediates\pre-dexed\debug\opencsv-3.3_69121f3dca8d50026c4280f451d9e07ef9246269.jar" />
+    </item>
+
+</items>
